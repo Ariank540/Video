@@ -1,0 +1,10 @@
+{
+  "source_frames_decoded": 292,
+  "v1_frames_decoded": 60,
+  "paired_frames_analyzed": 60,
+  "new_video_created": false,
+  "reason": "No available validated replacement pipeline; do not repeat static-plate approach",
+  "original_sha256": "9aff80f0c1bdb82de38970f3af3c4673a38f812f3bc5733aa29cfb39f1752852",
+  "v1_sha256": "20ed9866dd5d3cc6356bf499b0d8d15b796a697b8dca8d1dd60652fc63a26ae7",
+  "warning": "CSV diagnostics are not calibrated realism scores; visual paired frames are provided for inspection."
+}
