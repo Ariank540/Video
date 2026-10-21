@@ -1,0 +1,15 @@
+{
+  "protected_face_roi_rgb_max_error_before_encoding": 0,
+  "roi_xyxy": [
+    175,
+    430,
+    315,
+    620
+  ],
+  "tested_source_png_frames": 60,
+  "max_source_timestamp_vs_30fps_grid_ms": 1.667,
+  "rendered_frames": 60,
+  "duration_seconds": 2,
+  "visual_status": "not approved as indistinguishable from real footage",
+  "full_clip_processing": "withheld because test quality insufficient"
+}
